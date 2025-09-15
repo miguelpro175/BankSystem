@@ -1,0 +1,7 @@
+name: Bank
+main: me.migueleb.com.BankMain
+version: 1.0
+api-version: 1.8
+commands:
+  bank:
+    description: Banco com contas, depósitos, saques e juros.
